@@ -1,4 +1,4 @@
-# FXXK ACE - 高级进程控制工具
+# FXXK ACE - 一个功能强大的ACE反作弊进程控制和优化工具
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/download)
 [![Windows](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
@@ -46,8 +46,11 @@
 
 ### 安装
 1. 下载最新版本的可执行文件
-2. 以管理员身份运行程序
-3. 首次运行会自动生成配置文件
+   - [FXXK_ACE_Ver1.1.2.rar](https://github.com/OP404OP/FXXK-ACE/releases/download/v1.1.2/FXXK_ACE_Ver1.1.2.rar)
+   - FXXK_ACE_x64.exe：64位版本（推荐）
+   - FXXK_ACE_x86.exe：32位版本
+3. 以管理员身份运行程序
+4. 首次运行会自动生成配置文件
 
 ### 基本使用
 1. **添加目标进程** - 默认内置进程（`SGuard64.exe`、`SGuardSvc64.exe`）
