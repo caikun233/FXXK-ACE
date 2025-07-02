@@ -6,7 +6,7 @@
 [![Download](https://img.icons8.com/external-kmg-design-flat-kmg-design/32/external-download-ui-essential-kmg-design-flat-kmg-design.png)](https://pan.quark.cn/s/b4a21078168e)
 
 一个功能强大的ACE反作弊进程控制和优化工具，提供7项核心控制策略和智能暂停功能，限制ACE进程的资源消耗。
-![QQ_1751481280012](https://github.com/user-attachments/assets/925181b7-ffeb-4b1b-bdfd-7b03f8caf0f2)
+![FXXK-ACE](https://github.com/user-attachments/assets/925181b7-ffeb-4b1b-bdfd-7b03f8caf0f2)
 
 ## ✨ 核心功能
 
