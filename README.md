@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Download](https://img.icons8.com/external-kmg-design-flat-kmg-design/32/external-download-ui-essential-kmg-design-flat-kmg-design.png)](https://pan.quark.cn/s/b4a21078168e)
 
-一个功能强大的ACE反作弊进程控制和优化工具，提供7项核心控制策略和智能暂停功能，限制ACE进程的资源消耗。
+一个功能强大的ACE反作弊进程控制和优化工具，提供7项核心控制策略和智能暂停功能，限制ACE进程的资源消耗
 ![FXXK-ACE](https://github.com/user-attachments/assets/925181b7-ffeb-4b1b-bdfd-7b03f8caf0f2)
 
 ## ✨ 核心功能
@@ -48,7 +48,7 @@
 
 ### 安装
 1. 下载最新版本的可执行文件
-   - [FXXK_ACE_Ver1.1.2.rar](https://pan.quark.cn/s/b4a21078168e)
+   - [FXXK_ACE_Ver1.1.3.rar](https://pan.quark.cn/s/b4a21078168e)
    - FXXK_ACE_x64.exe：64位版本（推荐）
    - FXXK_ACE_x86.exe：32位版本
 3. 以管理员身份运行程序
@@ -145,7 +145,10 @@
 
 ## 📝 更新日志
 
-### v1.1.2 (最新)
+### v1.1.3 (最新)
+- ✅ 修复已知和未知的BUG
+
+### v1.1.2
 - ✨ 新增智能暂停功能
 - 🎨 优化详细状态报告界面
 - 🔧 修复CPU和磁盘监控准确性
